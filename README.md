@@ -2,7 +2,7 @@
 
 ## Description
 
-A web app which uses a search input and Giphy's API to display gifs on a page.
+A web app which uses a fetch API to make an HTTP request to a third party API to get some exchange rates.
 
 ## Installation
 
@@ -14,4 +14,3 @@ Via npm
 
 ## Demo
 
-http://matheustontini.dx.am/portfolio/AppGiphy/
